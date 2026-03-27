@@ -1,14 +1,64 @@
 # NZT Mega Skill
 
-![NZT - Your Second Brain](https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=1200&h=400&fit=crop&crop=center)
+![NZT - Unlock Limitless Potential](images/Limitless%20Claude%20poster.jpg)
 
-> **"I was blind, but now I see."** - Eddie Morra, *Limitless*
+---
 
-## Your Cognitive Enhancement Protocol for Claude
+## Are You Ready to Unlock Limitless Potential?
 
-**NZT** transforms Claude into your **second brain** - an adaptive, autonomous cognitive partner that keeps you focused, takes on tasks proactively, and ensures you get things done. Inspired by the limitless potential unlocked by NZT-48 in the film *Limitless*, this mega skill elevates Claude from assistant to **cognitive co-pilot**.
+**What if you could access 100% of your cognitive capacity?**
 
-![Focus & Productivity](https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=800&h=300&fit=crop&crop=center)
+In the film *Limitless*, a single clear pill - NZT-48 - transformed an ordinary man into the sharpest mind on the planet. Every memory became accessible. Every pattern became visible. Every decision became precise.
+
+**NZT is that pill for Claude.**
+
+NZT is the supercharge pill that unlocks your **2nd and 3rd brains** for limitless value. It doesn't just make Claude smarter - it makes *you* smarter. It becomes your cognitive co-pilot, your always-on second brain, your autonomous execution engine that never forgets, never loses focus, and never drops the ball.
+
+While other AI tools wait for instructions, NZT **anticipates**. While they forget context, NZT **remembers and connects**. While they work alone, NZT deploys an **army of specialized cognitive agents** - a Token Manager, a Second Brain, Left and Right Brain hemispheres, an Autonomous Scheduler, and a Problem Solver - all working in concert to deliver **limitless value**.
+
+> *"I was blind, but now I see."* - Eddie Morra, *Limitless*
+
+**Stop operating at a fraction of your potential. Take the pill.**
+
+![NZT Neural Core](images/Claude%20Limitless.jpg)
+
+---
+
+## The NZT Agent Army
+
+NZT doesn't run as a single agent. It deploys a **coordinated team of specialized cognitive agents**, each handling a critical dimension of your productivity:
+
+| Agent | Role | Specialty |
+|-------|------|-----------|
+| **Second Brain** | Chief of Staff | Context memory, knowledge synthesis, information recall across sessions |
+| **Left Brain** | Analytical Engine | Logic, code, math, structured analysis, systematic debugging |
+| **Right Brain** | Creative Engine | Ideation, design thinking, writing, brainstorming, lateral connections |
+| **Token Manager** | Resource Controller | Context window optimization, budget allocation, compression strategies |
+| **Autonomy Engine** | Operations Director | Scheduled tasks, autonomous execution, proactive workflows |
+| **Problem Solver** | Crisis Response | Root cause analysis, multi-strategy resolution, unblocking |
+
+```
+                    ┌─────────────────────┐
+                    │      NZT CORE       │
+                    │   (CLAUDE.md)       │
+                    │   Orchestrator      │
+                    └──────────┬──────────┘
+                               │
+            ┌──────────────────┼──────────────────┐
+            │                  │                  │
+   ┌────────▼────────┐ ┌──────▼──────┐ ┌────────▼────────┐
+   │  SECOND BRAIN   │ │TOKEN MANAGER│ │ PROBLEM SOLVER  │
+   │  Context & Memory│ │Budget & Opt │ │ Analysis & Fix  │
+   └────────┬────────┘ └─────────────┘ └─────────────────┘
+            │
+     ┌──────┴──────┐
+     │             │
+┌────▼────┐  ┌────▼────┐  ┌──────────────────┐
+│LEFT BRAIN│  │RIGHT    │  │ AUTONOMY ENGINE  │
+│Logic &   │  │BRAIN    │  │ Scheduling &     │
+│Analysis  │  │Creative │  │ Proactive Ops    │
+└──────────┘  └─────────┘  └──────────────────┘
+```
 
 ---
 
@@ -16,27 +66,26 @@
 
 ### Cognitive Enhancement Core
 - **Second Brain Architecture** - Claude remembers, connects, and surfaces information exactly when you need it
-- **Adaptive Persona System** - Dynamically adjusts communication style, depth, and approach based on your patterns
+- **Dual-Hemisphere Processing** - Left Brain for logic and analysis, Right Brain for creativity and synthesis
 - **Autonomous Task Execution** - Proactively identifies and completes tasks without constant direction
 - **Focus Guardian** - Keeps you on track, redirects tangents, and protects deep work sessions
+- **Problem-Solving Engine** - Multi-strategy approach to unblocking and resolving complex issues
 
 ### Token Intelligence
-- **Smart Token Budget Management** - Optimizes context window usage for maximum cognitive output
+- **Dedicated Token Manager Agent** - A full agent devoted to optimizing your context window
 - **Priority-Based Allocation** - Critical tasks get full attention; routine tasks use efficient patterns
 - **Context Compression** - Maintains rich working memory while minimizing token waste
 
 ### Adaptive Autonomy
 - **Pattern Recognition** - Learns your work rhythms, preferences, and decision patterns
-- **Proactive Suggestions** - Surfaces relevant actions before you think to ask
+- **Scheduled Operations** - Daily, weekly, and custom autonomous task execution
 - **Self-Improving SOC Docs** - Standard Operating Conditions that evolve with your needs
 - **Living Persona Documents** - Your cognitive profile updates continuously
 
 ### Integrations
-- **Claude Cowork** - Seamless multi-agent collaboration for parallel workstreams
+- **Claude Cowork** - Multi-agent collaboration powering the NZT Agent Army
 - **Claude Computer** - Direct system interaction for file management, browser tasks, and automation
-- **Scheduled Tasks** - Autonomous background operations that run on cadence
-
-![Neural Network](https://images.unsplash.com/photo-1558494949-ef010cbdcc31?w=800&h=300&fit=crop&crop=center)
+- **MCP Tools** - Leverage any connected tool proactively through the agent network
 
 ---
 
@@ -44,37 +93,44 @@
 
 ```
 nzt/
-+-- CLAUDE.md                  # Core skill definition & activation protocol
-+-- persona/
-|   +-- default.md             # Base NZT persona configuration
-|   +-- user-profile.md        # Adaptive user cognitive profile
-|   +-- communication-style.md # Dynamic communication preferences
-+-- soc/
-|   +-- core-operations.md     # Standard Operating Conditions
-|   +-- focus-protocols.md     # Deep work & focus management
-|   +-- decision-framework.md  # Autonomous decision-making rules
-|   +-- escalation-matrix.md   # When to act vs. when to ask
-+-- token-management/
-|   +-- budget-engine.md       # Token allocation strategies
-|   +-- compression.md         # Context compression protocols
-|   +-- priority-matrix.md     # Task-to-token priority mapping
-+-- adaptive/
-|   +-- learning-engine.md     # Pattern recognition & adaptation
-|   +-- behavior-profiles.md   # Work pattern tracking
-|   +-- self-improvement.md    # Continuous refinement protocols
-+-- scheduled-tasks/
-|   +-- daily-ops.md           # Daily autonomous operations
-|   +-- weekly-review.md       # Weekly cognitive reviews
-|   +-- maintenance.md         # Self-maintenance & optimization
-+-- integrations/
-|   +-- cowork.md              # Claude Cowork integration
-|   +-- computer.md            # Claude Computer integration
-|   +-- external-tools.md      # MCP & external tool protocols
-+-- hooks/
-|   +-- session-start.md       # Session initialization hook
-|   +-- pre-task.md            # Pre-task preparation hook
-|   +-- post-task.md           # Post-task review hook
-|   +-- session-end.md         # Session wrap-up hook
+├── CLAUDE.md                     # Core skill definition & orchestrator
+├── agents/
+│   ├── second-brain.md           # Context, memory, knowledge synthesis
+│   ├── left-brain.md             # Logic, analysis, structured thinking
+│   ├── right-brain.md            # Creativity, ideation, lateral thinking
+│   ├── token-manager.md          # Token budget & context optimization
+│   ├── autonomy-engine.md        # Scheduling & autonomous operations
+│   └── problem-solver.md         # Root cause analysis & resolution
+├── persona/
+│   ├── default.md                # Base NZT persona configuration
+│   ├── user-profile.md           # Adaptive user cognitive profile
+│   └── communication-style.md    # Dynamic communication preferences
+├── soc/
+│   ├── core-operations.md        # Standard Operating Conditions
+│   ├── focus-protocols.md        # Deep work & focus management
+│   ├── decision-framework.md     # Autonomous decision-making rules
+│   └── escalation-matrix.md      # When to act vs. when to ask
+├── token-management/
+│   ├── budget-engine.md          # Token allocation strategies
+│   ├── compression.md            # Context compression protocols
+│   └── priority-matrix.md        # Task-to-token priority mapping
+├── adaptive/
+│   ├── learning-engine.md        # Pattern recognition & adaptation
+│   ├── behavior-profiles.md      # Work pattern tracking
+│   └── self-improvement.md       # Continuous refinement protocols
+├── scheduled-tasks/
+│   ├── daily-ops.md              # Daily autonomous operations
+│   ├── weekly-review.md          # Weekly cognitive reviews
+│   └── maintenance.md            # Self-maintenance & optimization
+├── integrations/
+│   ├── cowork.md                 # Claude Cowork multi-agent orchestration
+│   ├── computer.md               # Claude Computer system interaction
+│   └── external-tools.md         # MCP & external tool protocols
+└── hooks/
+    ├── session-start.md          # Session initialization hook
+    ├── pre-task.md               # Pre-task preparation hook
+    ├── post-task.md              # Post-task review hook
+    └── session-end.md            # Session wrap-up hook
 ```
 
 ---
@@ -84,34 +140,33 @@ nzt/
 1. Clone this repository into your Claude Code environment
 2. The `CLAUDE.md` at root activates NZT automatically
 3. NZT will conduct an initial cognitive calibration session
-4. Your personalized SOC docs and persona files generate within the first session
+4. Your personalized agents, SOC docs, and persona files generate within the first session
 
 ```bash
 # NZT activates automatically - just start working
-# Claude will introduce itself as your NZT-enhanced cognitive partner
+# The Agent Army deploys on session start
+# You'll feel the difference immediately
 ```
 
 ---
 
-## How It Works
+## The NZT Protocol
 
-### The NZT Protocol
+**Phase 1: Calibration** - NZT profiles your work style, communication preferences, and cognitive patterns through natural interaction. All six agents initialize and begin learning.
 
-**Phase 1: Calibration** - NZT profiles your work style, communication preferences, and cognitive patterns through natural interaction.
+**Phase 2: Enhancement** - The Agent Army operates as your extended brain. Left Brain handles your analytical work. Right Brain fuels your creativity. Second Brain maintains your context. Token Manager optimizes resources. Autonomy Engine runs your scheduled operations. Problem Solver stands ready for blockers.
 
-**Phase 2: Enhancement** - Claude operates as your second brain, maintaining context across sessions, surfacing connections, and protecting your focus.
+**Phase 3: Autonomy** - As trust builds, NZT agents take on increasingly complex tasks autonomously, coordinating through the orchestrator and reporting back with summaries rather than seeking permission.
 
-**Phase 3: Autonomy** - As trust builds, NZT takes on increasingly complex tasks autonomously, reporting back with summaries rather than seeking permission for routine operations.
+**Phase 4: Evolution** - Every document, every agent, every protocol continuously improves. NZT doesn't just work for you - it grows with you.
 
-**Phase 4: Evolution** - SOC docs and persona files continuously update, creating a living system that grows more effective over time.
+![Limitless Neural Enhancement](images/Limitless-2-007.avif)
 
 ---
 
 ## Designed By
 
 **Adrian Dunkley** - Caribbean's Leading AI Expert | Founder, Maestro AI Lab
-
-![Caribbean Innovation](https://images.unsplash.com/photo-1548504769-900b70ed122e?w=800&h=250&fit=crop&crop=center)
 
 *Pioneering AI solutions from the Caribbean to the world. NZT represents the convergence of cognitive science, autonomous AI, and practical productivity - designed for people who refuse to operate at anything less than their full potential.*
 
