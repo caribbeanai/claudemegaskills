@@ -1,3 +1,17 @@
+# AI Vitamins
+
+Prepared by Adrian Rowley.
+
+> **Experiment. No performance guarantee.** These prompts and virtual rewards may help, hurt or make no difference. Test them on your own tasks and verify important outputs against the source material.
+
+<a href="token-treats/README.md"><img src="token-treats/assets/token-treats-credited.webp" alt="Token Treats bag with a cartoon robot and a tag reading Prepared by Adrian O’Clean and Manufacturer: bosshq.com" width="420"></a>
+
+[Skill](token-treats/SKILL.md) · [Experiment kit](token-treats/README.md#try-it) · [Authoring notes](token-treats/references/authoring.md)
+
+[Claude AI Vitamins](token-treats/models/claude.md) · [Gemini AI Vitamins](token-treats/models/gemini.md) · [DeepSeek AI Vitamins](token-treats/models/deepseek.md) · [ChatGPT AI Vitamins](token-treats/models/chatgpt.md) · [Other models](token-treats/models/other-models.md)
+
+---
+
 # NZT Mega Skill
 
 ![NZT - Unlock Limitless Potential](images/Limitless%20Claude%20poster.jpg)
