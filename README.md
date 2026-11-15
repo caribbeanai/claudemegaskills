@@ -1,3 +1,9 @@
+<a href="token-treats/README.md"><img src="token-treats/assets/token-treats.webp" alt="Token Treats bag with a cartoon robot and biscuit cutaway" width="420"></a>
+
+**Token Treats** · [Open the skill, model guides and four-version prompt test](token-treats/README.md)
+
+---
+
 # NZT Mega Skill
 
 ![NZT - Unlock Limitless Potential](images/Limitless%20Claude%20poster.jpg)
