@@ -1,13 +1,13 @@
-# Copilot, Mistral, Llama and other chat models
+# AI Vitamins for other models
 
-Use the plain-text block where you can send a prompt. Keep it in one message for simpler interfaces. If an app adds retrieval or other sources, use the same tool settings in all test conditions and record which settings were available.
+Use this plain-text prompt for Copilot, Llama, Mistral and other chat models. Keep any tool or search settings fixed across trials. If you cannot control an app's retrieval settings, record that in the comparison.
 
 ~~~text
-Write [deliverable] for [audience] in [format and length].
+Write [deliverable] for [reader] in [format and length].
 Use these source rules: [rules].
 Records: [Paste numbered sources.]
 
-Check the key assumption and one alternative. Trace repeated claims to their original source. Check important facts, numbers and units. Say what the records leave uncertain. Edit once for clear verbs, short sentences and the required format. Return the deliverable.
+Check the key assumption and one competing explanation. Trace repeated claims to their original record. Check numbers and units. State what the records leave uncertain. Revise once for clear verbs and the requested format. Return the deliverable.
 ~~~
 
-For the controlled test, use the [canonical task and experiment](../references/experiment.md).
+For the controlled test, use [the same four versions as the other models](../references/condition-blocks.md).

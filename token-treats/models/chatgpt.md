@@ -1,14 +1,21 @@
-# ChatGPT
+# ChatGPT AI Vitamins
 
-Paste the block into a fresh chat. Replace each bracketed placeholder. On reasoning models, keep the request and success criteria direct. Ask for a short evidence note only if your reader needs it. [OpenAI's reasoning guide](https://developers.openai.com/api/docs/guides/reasoning-best-practices)
+State the goal and success criteria directly. Put the evidence in a clearly labelled block. Start with a prompt without examples and add a relevant example only if the output format remains unclear. [OpenAI's reasoning best practices](https://developers.openai.com/api/docs/guides/reasoning-best-practices)
 
 ~~~text
-Deliver [artifact] for [audience]. Follow [requirements, format and word limit].
+Goal
+[Deliverable, reader and decision.]
 
-Source material:
-[Paste records with IDs.]
+Records
+[Label each record with a source ID.]
 
-Identify the assumption that could change the answer. Check which records are independent and verify material numbers, units and citations. State what remains uncertain. Revise once for plain language and format, then give me the requested artifact.
+An acceptable answer must
+- Use [the stated source rules].
+- Meet [format, length and decision constraints].
+- Check the material assumption, competing explanation and source dependence.
+- Verify key figures and state what could change the conclusion.
+
+Give the requested artifact. Include brief evidence citations where they support a decision.
 ~~~
 
-For the controlled test, use the [canonical task and experiment](../references/experiment.md).
+For the controlled test, use [the same four versions as the other models](../references/condition-blocks.md).

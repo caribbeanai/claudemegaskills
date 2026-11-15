@@ -1,18 +1,17 @@
-# Gemini
+# Gemini AI Vitamins
 
-Paste this block into a fresh chat. Label each source, including each file, table or image you supply. When you rely on a long source, add a unique page or section reference where available. [Google's prompt design guide](https://ai.google.dev/gemini-api/docs/prompting-strategies)
+Attach or paste the source material. Give each file a stable ID, including images or audio. Request locators that suit the medium. Check attachment access before treating the answer as source-grounded. [Google's prompt design guide](https://ai.google.dev/gemini-api/docs/prompting-strategies)
 
 ~~~text
-Task and audience
-[Name the deliverable, reader and decision.]
+Deliverable
+[Artifact, reader, decision, format and word limit.]
 
-Source material
-[Paste source excerpts or list supplied files, tables or images with IDs.]
+Source index
+[S1: file, excerpt, image or recording.]
+[S2: file, excerpt, image or recording.]
 
-Output requirements
-[Specify format, limit and whether outside sources are allowed.]
-
-Check what each source actually measures and whether two sources repeat the same underlying record. Test a plausible alternative explanation. Use the IDs and page or section where available. Mark any inaccessible or ambiguous evidence. Revise once for clarity and return the requested deliverable.
+Use [only these sources / these sources plus the specified external sources].
+Check what each source measures and whether two sources rely on the same record. Test a plausible competing explanation. For each material finding, give its source ID and a page, table, timestamp or section when you can locate one. Name unreadable or missing inputs. Flag discrepancies and return the requested artifact after one edit.
 ~~~
 
-For the controlled test, use the [canonical task and experiment](../references/experiment.md).
+For the controlled test, use [the same four versions as the other models](../references/condition-blocks.md).

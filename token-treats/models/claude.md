@@ -1,13 +1,19 @@
-# Claude
+# Claude AI Vitamins
 
-Paste the block into a fresh chat or import the [skill folder](../README.md) in a Claude client that supports Agent Skills. Use the tagged template to keep pasted records distinct from instructions. [Claude prompting guide](https://platform.claude.com/docs/en/build-with-claude/prompt-engineering/overview)
+Use the [skill folder](../README.md) in a client that supports Agent Skills, or paste the prompt into a normal chat. Use one `<document>` per source. For long packets, put the documents before the task. Where an exact phrase decides the issue, ask for a brief quotation with its source ID. [Anthropic's prompting guidance](https://platform.claude.com/docs/en/build-with-claude/prompt-engineering/claude-prompting-best-practices)
 
 ~~~text
-<task>[Name the deliverable, reader and decision.]</task>
-<records>[Paste source text with an ID for each record.]</records>
-<requirements>[Set the format, word limit and whether outside sources are allowed.]</requirements>
+<documents>
+  <document>
+    <source>[Document ID and date]</source>
+    <content>[Paste the relevant document text.]</content>
+  </document>
+</documents>
 
-Check the strongest assumption and one plausible alternative. Identify the author, date and source dependence where these affect the conclusion. Cite record IDs for material claims and state what evidence would change the recommendation. Revise for plain language and return the requested deliverable.
+<task>[Deliverable, audience and decision.]</task>
+<constraints>[Format, length and whether external sources are allowed.]</constraints>
+
+Test the key assumption and a plausible alternative. Trace repeated claims to their original document. For each claim the decision depends on, give the source ID and a short quotation only if its wording matters. Say when the source does not establish a claim. Check the conclusion and revise the deliverable once for clarity.
 ~~~
 
-For the controlled test, use the [canonical task and experiment](../references/experiment.md).
+For the controlled test, use [the same four versions as the other models](../references/condition-blocks.md).
